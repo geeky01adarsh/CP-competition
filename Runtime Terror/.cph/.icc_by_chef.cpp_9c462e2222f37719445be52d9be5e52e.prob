@@ -1,0 +1,1 @@
+{"name":"Local: icc_by_chef","url":"c:\\Users\\aadarsh\\Desktop\\competition\\Runtime Terror\\icc_by_chef.cpp","tests":[{"id":1618062369410,"input":"3\nPPQRSSSTPSPTT\nSTPQRRTP\nTTTPS","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\aadarsh\\Desktop\\competition\\Runtime Terror\\icc_by_chef.cpp","group":"local","local":true}

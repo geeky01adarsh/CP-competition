@@ -1,0 +1,1 @@
+{"name":"Local: chef_picnic","url":"c:\\Users\\aadarsh\\Desktop\\competition\\Runtime Terror\\chef_picnic.cpp","tests":[{"id":1618061640579,"input":"1\n7\n6 7 2 10 5 13 10","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\aadarsh\\Desktop\\competition\\Runtime Terror\\chef_picnic.cpp","group":"local","local":true}

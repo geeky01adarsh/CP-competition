@@ -1,0 +1,1 @@
+{"name":"Local: ipl_pawri","url":"c:\\Users\\aadarsh\\Desktop\\competition\\Runtime Terror\\ipl_pawri.cpp","tests":[{"id":1618325291632,"input":"2\n8\n5 5 8 5 8 5 8 5\n13\n2 9 1 1 9 9 2 2 9 2 1 9 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\aadarsh\\Desktop\\competition\\Runtime Terror\\ipl_pawri.cpp","group":"local","local":true}
