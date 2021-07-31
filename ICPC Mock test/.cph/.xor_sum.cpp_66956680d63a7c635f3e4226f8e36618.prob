@@ -1,0 +1,1 @@
+{"name":"Local: xor_sum","url":"c:\\Users\\aadarsh\\Desktop\\competition\\ICPC Mock test\\xor_sum.cpp","tests":[{"id":1627738823572,"input":"2\n3\n1 2 3\n10\n1 2 8 5 8 2 1 9 7 9","output":"10\n434"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\aadarsh\\Desktop\\competition\\ICPC Mock test\\xor_sum.cpp","group":"local","local":true}
